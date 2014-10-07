@@ -3,18 +3,18 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package var_2.three.Wood_Industry.impl.material;
 
-import var_2.three.Wood_Industry.interfaces.Material;
+package var_2.three;
 
 /**
  *
  * @author Andr
  */
-public class Metal implements Material {
+public interface Furniture {
 
     @Override
-    public String toString() {
-	return this.getClass().getSimpleName();
-    }
+    public String toString();
+   
+    
+    
 }

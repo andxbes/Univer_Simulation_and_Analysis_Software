@@ -4,17 +4,15 @@
  * and open the template in the editor.
  */
 
-package var_2.three.Wood_Industry.interfaces;
+package var_2.three;
 
 /**
  *
  * @author Andr
  */
-public interface Furniture {
+public interface Material {
 
     @Override
     public String toString();
-   
-    
     
 }

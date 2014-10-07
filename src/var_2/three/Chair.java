@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package var_2.three.Wood_Industry.impl.furniture;
+package var_2.three;
 
-import var_2.three.Wood_Industry.interfaces.Furniture;
+
 
 /**
  *

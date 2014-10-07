@@ -4,10 +4,9 @@
  * and open the template in the editor.
  */
 
-package var_2.three.Factory.interfaces;
+package var_2.three;
 
-import var_2.three.Wood_Industry.interfaces.Furniture;
-import var_2.three.Wood_Industry.interfaces.Material;
+
 
 
 

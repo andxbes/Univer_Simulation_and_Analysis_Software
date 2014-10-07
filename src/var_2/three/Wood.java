@@ -3,16 +3,16 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package var_2.three.Wood_Industry.impl.furniture;
 
-import var_2.three.Wood_Industry.interfaces.Furniture;
+package var_2.three;
+
+
 
 /**
  *
  * @author Andr
  */
-public class Bed implements Furniture {
-
+public class Wood implements Material{
     @Override
     public String toString() {
 	return this.getClass().getSimpleName();

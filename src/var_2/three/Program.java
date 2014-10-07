@@ -9,9 +9,7 @@
 package var_2.three;
 
 import java.util.Scanner;
-import var_2.three.Factory.impl.UAFactory;
-import var_2.three.Factory.impl.USA_Factory;
-import var_2.three.Factory.interfaces.Factory;
+
 
 /**
  *
